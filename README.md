@@ -1,3 +1,3 @@
 # ExchangeRates
-How to parse JSON in swift, HTTP, in tableView
+Example HTTP/JSON written in Swift
 
